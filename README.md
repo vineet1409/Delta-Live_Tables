@@ -3,4 +3,4 @@ DLT Tables Utilisation
 
 ## Architecture
 
-![Workflow](architecture_diagram)
+![Workflow](architecture_diagram.png)
