@@ -6,3 +6,9 @@
 ## Architecture
 
 ![Workflow](architecture_diagram.png)
+
+
+### Output
+
+
+![Workflow](dlt-output.png)
